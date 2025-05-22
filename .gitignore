@@ -1,0 +1,54 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test output
+*.log
+*.out
+
+# Secrets
+.env
+
+# Data files
+data/
+data/processed_dataset.csv
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Streamlit cache
+.streamlit/
+
+# Backup files
+*.bak
+*.tmp
